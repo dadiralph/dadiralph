@@ -7,8 +7,6 @@
 
 ---
 
-
-
 ## 🧠 About Me
 
 🌟 Passionate about turning ideas into interactive Front-End experiences  
@@ -31,8 +29,6 @@
   - **Outlook** – Email and calendar management
 
 
-
-
 ---
 
 ## 🛠 Tech Stack
@@ -42,11 +38,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,github,figma,vscode&perline=7" />
 </p>
 
----
-
-
-
-> 🚀 Dive deeper on my [GitHub repositories](https://github.com/Rtyz)
 
 ---
 
@@ -69,7 +60,7 @@
 ## ☄️ Fun Quote
 
 > “Code like the stars are watching.” — Ralph ✨
-
+> 🚀 Dive deeper on my [GitHub repositories](https://github.com/Rtyz)
 ---
 
 <p align="center">
