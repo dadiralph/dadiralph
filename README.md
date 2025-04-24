@@ -21,12 +21,12 @@
 
 - **SEO**: Experience with on-page SEO strategies, keyword research, and optimization to improve site visibility and ranking.
 - **Collaboration Tools**: 
-  - ![Asana](https://upload.wikimedia.org/wikipedia/commons/9/9f/Asana_logo.svg) **Asana** – Task and project management
-  - ![Jira](https://upload.wikimedia.org/wikipedia/commons/1/1b/Jira-Software-Logo.svg) **Jira** – Issue tracking and project management
-  - ![Slack](https://upload.wikimedia.org/wikipedia/commons/9/91/Slack_icon_2019.svg) **Slack** – Team communication
-  - ![Microsoft Teams](https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Teams_logo_2023.svg) **Microsoft Teams** – Remote collaboration and meetings
-  - ![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo.svg) **Gmail** – Professional email management
-  - ![Outlook](https://upload.wikimedia.org/wikipedia/commons/4/42/Outlook.com_logo_2013.svg) **Outlook** – Email and calendar management
+  - ![Asana](https://img.icons8.com/ios/50/000000/asana.png) **Asana** – Task and project management
+  - ![Jira](https://img.icons8.com/ios/50/000000/jira.png) **Jira** – Issue tracking and project management
+  - ![Slack](https://img.icons8.com/ios/50/000000/slack.png) **Slack** – Team communication
+  - ![Microsoft Teams](https://img.icons8.com/ios/50/000000/microsoft-teams.png) **Microsoft Teams** – Remote collaboration and meetings
+  - ![Gmail](https://img.icons8.com/ios/50/000000/gmail.png) **Gmail** – Professional email management
+  - ![Outlook](https://img.icons8.com/ios/50/000000/outlook.png) **Outlook** – Email and calendar management
 
 
 
