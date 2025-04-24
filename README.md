@@ -59,7 +59,7 @@
 
 ## ☄️ Fun Quote
 
-> “Code like the stars are watching.” — Ralph ✨
+> “Code like the stars are watching.” — Ralph ✨ <br>
 > 🚀 Dive deeper on my [GitHub repositories](https://github.com/Rtyz)
 ---
 
