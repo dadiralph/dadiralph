@@ -87,7 +87,7 @@
 </head>
 <body>
   <header>
-    <h1>Hi, I'm Your Name 🚀</h1>
+    <h1>Hi, I'm Ralph 🚀</h1>
     <div class="typing">Web Developer | Space Enthusiast | Creative Thinker</div>
   </header>
 
@@ -129,8 +129,8 @@
   <section class="contact">
     <h2>📫 Connect with Me</h2>
     <p>
-      <a href="mailto:your.email@example.com">Gmail</a> |
-      <a href="https://linkedin.com/in/YOURNAME">LinkedIn</a> |
+      <a href="mailto:rlphclmnte@gmail.com">Gmail</a> |
+      <a href="https://www.linkedin.com/in/ralph-clemente-001010289/">LinkedIn</a> |
       <a href="https://github.com/YOURUSERNAME">GitHub</a>
     </p>
   </section>
