@@ -1,24 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ralph</h1>
-<h3 align="center">🚀 Web Developer | 🌌 Space Enthusiast | 🎮 Gamer at heart</h3>
+<h3 align="center">🚀Jr. Front-End Developer |🔎 QA Specialist |💡 Ads Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Front-End+Developer;Space+Lover;Creative+Thinker;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=jr.+Front-End+Developer;Space+Lover;Creative+Thinker;Problem+Solver;Team+Player" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-🌟 Passionate about turning ideas into interactive web experiences  
-🚀 Currently exploring the galaxy of **JavaScript**, **PHP**, and **UI design**  
-🎮 I unwind with games and stargazing — sometimes at the same time 🌠  
+🌟 Passionate about turning ideas into interactive Front-End experiences  
+🚀 Currently exploring the galaxy of **JavaScript**, **PHP**, and **UI/UX design**  
+🎮 I unwind with games and stargazing — sometimes at the same time 🌠
+💡 Part Of Performance Team as Senior Ads Operation  
+🔎 I'm Quality Assurance Specialist too 
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,github,figma,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,github,figma,vscode,Asan,Slack&perline=7" />
 </p>
 
 ---
