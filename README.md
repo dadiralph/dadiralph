@@ -11,7 +11,7 @@
 
 🌟 Passionate about turning ideas into interactive Front-End experiences  
 🚀 Currently exploring the galaxy of **JavaScript**, **PHP**, and **UI/UX design**  
-🎮 I unwind with games and stargazing — sometimes at the same time 🌠 
+🎮 I unwind with games and stargazing — sometimes at the same time 🌠 <br>
 💡 Part Of Performance Team as Senior Ads Operation  
 🔎 I'm Quality Assurance Specialist too 
 
