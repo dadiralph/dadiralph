@@ -21,12 +21,13 @@
 
 - **SEO**: Experience with on-page SEO strategies, keyword research, and optimization to improve site visibility and ranking.
 - **Collaboration Tools**: 
-  - <img src="https://skillicons.dev/icons?i=asana" alt="Asana" width="24" height="24"/> **Asana** – Task and project management
-  - <img src="https://skillicons.dev/icons?i=jira" alt="Jira" width="24" height="24"/> **Jira** – Issue tracking and project management
-  - <img src="https://skillicons.dev/icons?i=slack" alt="Slack" width="24" height="24"/> **Slack** – Team communication
-  - <img src="https://skillicons.dev/icons?i=teams" alt="Microsoft Teams" width="24" height="24"/> **Microsoft Teams** – Remote collaboration and meetings
+  - <img src="https://img.icons8.com/ios/50/000000/asana.png" alt="Asana" width="24" height="24"/> **Asana** – Task and project management
+  - <img src="https://img.icons8.com/ios/50/000000/jira.png" alt="Jira" width="24" height="24"/> **Jira** – Issue tracking and project management
+  - <img src="https://img.icons8.com/ios/50/000000/slack.png" alt="Slack" width="24" height="24"/> **Slack** – Team communication
+  - <img src="https://img.icons8.com/ios/50/000000/microsoft-teams.png" alt="Microsoft Teams" width="24" height="24"/> **Microsoft Teams** – Remote collaboration and meetings
   - <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="24" height="24"/> **Gmail** – Professional email management
-  - <img src="https://skillicons.dev/icons?i=outlook" alt="Outlook" width="24" height="24"/> **Outlook** – Email and calendar management
+  - <img src="https://img.icons8.com/ios/50/000000/outlook.png" alt="Outlook" width="24" height="24"/> **Outlook** – Email and calendar management
+
 
 ---
 
