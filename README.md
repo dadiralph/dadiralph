@@ -7,7 +7,7 @@
 
 ---
 
-<div align="center">
+
 
 ## 🧠 About Me
 
@@ -30,7 +30,7 @@
   - **Gmail** – Professional email management
   - **Outlook** – Email and calendar management
 
-</div>
+
 
 
 ---
@@ -38,7 +38,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-## 🛠 Tech Stack
+
   <img src="https://skillicons.dev/icons?i=html,css,js,php,github,figma,vscode&perline=7" />
 </p>
 
