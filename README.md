@@ -17,10 +17,23 @@
 
 ---
 
+## 🌟 SEO & Tools
+
+- **SEO**: Experience with on-page SEO strategies, keyword research, and optimization to improve site visibility and ranking.
+- **Collaboration Tools**: 
+  - <img src="https://skillicons.dev/icons?i=asana" alt="Asana" width="24" height="24"/> **Asana** – Task and project management
+  - <img src="https://skillicons.dev/icons?i=jira" alt="Jira" width="24" height="24"/> **Jira** – Issue tracking and project management
+  - <img src="https://skillicons.dev/icons?i=slack" alt="Slack" width="24" height="24"/> **Slack** – Team communication
+  - <img src="https://skillicons.dev/icons?i=teams" alt="Microsoft Teams" width="24" height="24"/> **Microsoft Teams** – Remote collaboration and meetings
+  - <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="24" height="24"/> **Gmail** – Professional email management
+  - <img src="https://skillicons.dev/icons?i=outlook" alt="Outlook" width="24" height="24"/> **Outlook** – Email and calendar management
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,github,figma,vscode,Asan,Slack&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,github,figma,vscode&perline=7" />
 </p>
 
 ---
