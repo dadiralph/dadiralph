@@ -1,5 +1,10 @@
-# Hi there 👋
-I'm a passionate developer who loves building cool stuff.
+<h1 align="center">
+  Hi there, I'm <a href="https://github.com/Rtyz" target="_blank">Ralph Clemente 🚀</a> 👋
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=🚀+Web+Developer+%7C+Creative+Thinker;🪐+Open-Source+Enthusiast;🌌+Lover+of+Clean+Code" alt="Typing SVG" />
+</p>
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
