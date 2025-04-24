@@ -21,12 +21,12 @@
 
 - **SEO**: Experience with on-page SEO strategies, keyword research, and optimization to improve site visibility and ranking.
 - **Collaboration Tools**: 
-  - ![Asana](https://img.icons8.com/ios/50/000000/asana.png) **Asana** – Task and project management
-  - ![Jira](https://img.icons8.com/ios/50/000000/jira.png) **Jira** – Issue tracking and project management
-  - ![Slack](https://img.icons8.com/ios/50/000000/slack.png) **Slack** – Team communication
-  - ![Microsoft Teams](https://img.icons8.com/ios/50/000000/microsoft-teams.png) **Microsoft Teams** – Remote collaboration and meetings
-  - ![Gmail](https://img.icons8.com/ios/50/000000/gmail.png) **Gmail** – Professional email management
-  - ![Outlook](https://img.icons8.com/ios/50/000000/outlook.png) **Outlook** – Email and calendar management
+  - **Asana** – Task and project management
+  - **Jira** – Issue tracking and project management
+  - **Slack** – Team communication
+  - **Microsoft Teams** – Remote collaboration and meetings
+  - **Gmail** – Professional email management
+  - **Outlook** – Email and calendar management
 
 
 
