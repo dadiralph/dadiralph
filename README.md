@@ -40,13 +40,7 @@
 
 ---
 
-## 🌌 Featured Projects
 
-| 🌠 Project | 📝 Description |
-|-----------|----------------|
-| **AstroFolio** | A galaxy-themed portfolio built with HTML, CSS, JS & PHP. |
-| **Nebula Stats** | Real-time space data dashboard using NASA's API. |
-| **GlowForm** | Stylish glowing contact form with backend PHP and frontend animations. |
 
 > 🚀 Dive deeper on my [GitHub repositories](https://github.com/Rtyz)
 
