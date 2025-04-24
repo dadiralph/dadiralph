@@ -7,7 +7,7 @@ I'm a passionate developer who loves building cool stuff.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📈 GitHub Stats
-![ralphtzy](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Rtzy](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
 
 ## ✨ Fun Facts
 - 🔭 I’m currently working on...
