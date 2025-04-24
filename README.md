@@ -16,7 +16,6 @@
       <img src="https://skillicons.dev/icons?i=css" alt="CSS">
       <img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
       <img src="https://skillicons.dev/icons?i=php" alt="PHP">
-      <img src="https://skillicons.dev/icons?i=react" alt="React">
       <img src="https://skillicons.dev/icons?i=github" alt="GitHub">
     </div>
   </section>
@@ -33,7 +32,7 @@
         <p>Track satellites in real-time using open APIs and a clean UI.</p>
       </div>
       <div class="card">
-        <h3>🪄 GlowForm</h3>
+        <h3>✨ GlowForm</h3>
         <p>Modern glowing contact form with PHP backend and JavaScript animations.</p>
       </div>
     </div>
@@ -51,5 +50,5 @@
   <footer>
     🛸 “Code like the stars are watching.”
   </footer>
-</body>
-</html>
+
+
