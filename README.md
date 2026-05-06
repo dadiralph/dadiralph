@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/ralph-clemente-001010289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Rtyz">
+  <a href="[https://github.com/Rtyz](https://github.com/dadiralph)">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
