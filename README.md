@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ralph</h1>
-<h3 align="center">🚀Jr. Front-End Developer |🔎 QA Specialist |💡 Ads Specialist</h3>
+<h3 align="center">🚀Jr. Front-End Developer |🔎 QA Specialist |💡 Digital Marketing Specialist</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=jr.+Front-End+Developer;Space+Lover;Creative+Thinker;Problem+Solver;Team+Player" alt="Typing SVG" />
